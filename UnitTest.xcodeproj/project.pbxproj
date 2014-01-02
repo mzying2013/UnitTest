@@ -200,6 +200,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = sportsexp;
 				TargetAttributes = {
+					C6033BB218750725007343CC = {
+						DevelopmentTeam = 9S3FY9UFUA;
+					};
 					C6033BD318750726007343CC = {
 						TestTargetID = C6033BB218750725007343CC;
 					};
@@ -379,6 +382,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer: Gaolang Wang (FD82ZR7MH5)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UnitTest/UnitTest-Prefix.pch";
 				INFOPLIST_FILE = "UnitTest/UnitTest-Info.plist";
@@ -392,6 +396,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Hunan Sports Exp Information Technology Co., Ltd.///////////";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "UnitTest/UnitTest-Prefix.pch";
 				INFOPLIST_FILE = "UnitTest/UnitTest-Info.plist";
